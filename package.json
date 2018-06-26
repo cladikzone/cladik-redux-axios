@@ -1,7 +1,7 @@
 {
   "name": "cladik-redux-axios",
-  "version": "1.0.0",
-  "description": "Axios wrapper for Redux",
+  "version": "1.0.1",
+  "description": "Axios wrapper for Redux ( redux-axios middleware for multiple axios' clients support )",
   "main": "lib/index.js",
   "scripts": {
     "prepublish": "npm run lint && npm run build",
