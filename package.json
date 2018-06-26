@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cladikzone/redux-axios.git"
+    "url": "git+https://github.com/cladikzone/cladik-redux-axios.git"
   },
   "author": "Randika Prasad <cladikzone@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cladikzone/redux-axios/issues"
+    "url": "https://github.com/cladikzone/cladik-redux-axios/issues"
   },
-  "homepage": "https://github.com/cladikzone/redux-axios",
+  "homepage": "https://github.com/cladikzone/cladik-redux-axios",
   "dependencies": {
     "axios": ">= 0.5"
   },
