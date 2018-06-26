@@ -1,6 +1,6 @@
 {
   "name": "cladik-redux-axios",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Axios wrapper for Redux ( redux-axios middleware for multiple axios' clients support )",
   "main": "lib/index.js",
   "scripts": {
